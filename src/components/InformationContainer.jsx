@@ -10,7 +10,7 @@ const InformationContainer = () => {
             <div>
                 <a href="https://api.whatsapp.com/send?phone=5511996175768" target="blank">
                     <h3>Telefone</h3>
-                    <p>(11)99617-5768</p>
+                    <p>(11) 99617-5768</p>
                 </a>
             </div>
         </div>
