@@ -1,7 +1,6 @@
 # Site Currículo 
 
 Bem-vindo ao meu site de currículo! Este projeto foi desenvolvido utilizando SASS, uma linguagem de folha de estilo poderosa eficiente e modular. Aqui, você encontrará informações sobre minha experiência profissional, habilidades e projetos.
-
 Meu currículo em .pdf também está a disposição, com minha formação acadêmica e experiência profissional inclusos.
 
 Acesso: para visualizar o site currículo, basta acessar o projeto por meio de qualquer navegador web através do link: https://gunovaes.shop/
