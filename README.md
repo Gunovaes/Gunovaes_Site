@@ -4,6 +4,8 @@ Bem-vindo ao meu site de currículo! Este projeto foi desenvolvido utilizando SA
 
 Meu currículo em .pdf também está a disposição, com minha formação acadêmica e experiência profissional inclusos.
 
+Acesso: para visualizar o site currículo, basta acessar o projeto por meio de qualquer navegador web através do link: https://gunovaes.shop/
+
 ## Personalização
 
 Sinta-se à vontade para bifurcar este projeto e personalizar conforme suas necessidades. Adicione seções, projetos, experiências ou qualquer outra informação relevante ao seu currículo. Modifique as informações e também a estilização no arquivo do site para refletir sua identidade visual e preferências.
